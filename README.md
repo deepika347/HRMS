@@ -1,2 +1,2 @@
 # HRMS
-this website is created with the MERN stack Different Different components are created with the react .
+This Website Is Created With The MERN Stack Different Different Components Are Created With The React .
